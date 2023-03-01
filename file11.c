@@ -5,7 +5,7 @@ int armstrong(int n);
 int main()
 {
 	int num,res;
-	printf("Enter the number:");
+	printf("Enter the num:");
 	scanf("%d",&num);
 	res=armstrong(num);
 	if(res==num)
