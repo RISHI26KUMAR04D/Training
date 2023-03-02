@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<math.h>
-#include"file22.c"
+//#include"file22.c"
 int armstrong(int n);
 int main()
 {

@@ -1,4 +1,4 @@
-//#include<math.h>
+#include<math.h>
 int armstrong(int n)
 {
 	int r=0,count=0,sum=0;
